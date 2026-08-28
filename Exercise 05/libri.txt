@@ -1,0 +1,7 @@
+1234567	giallo	  le_ragazze_scomparse			4.50	disponibile
+7654321	romanzo	  il_barone_rampante 			5.00	prestato
+2143657	biografia	  una_terra_promessa			1.20	disponibile
+9865321	thriller 	  la_casa_delle_voci 			8.90	prestato
+8754128	giallo	  dalla_parte_di_lei 			5.00	prestato
+7623754	biografia	  morte_di_un_matematico	     3.20	disponibile
+9822651	romanzo	  guerra_e_pace 			     8.00	disponibile

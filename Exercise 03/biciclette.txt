@@ -1,0 +1,7 @@
+1234567		cross		34.50	disponibile
+7654321		mountainbike	45.00	noleggiata
+2143657		citta		31.20	disponibile
+9865321		corsa		38.90	noleggiata
+8754128		elettrica	35.00	noleggiata
+7623754		corsa		33.20	disponibile
+9822651		mountainbike	48.00	disponibile

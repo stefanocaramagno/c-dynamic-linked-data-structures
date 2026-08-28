@@ -1,0 +1,7 @@
+1   giuseppe garibaldi    RAGAZZI     123
+2   giuseppe mazzini      JUNIORES    345
+3   paperino paolino      RAGAZZI     346
+4   pippo    pappa        RAGAZZI  349
+5   alfio    pappalardo   JUNIORES 360
+6   giuseppe mazzini      JUNIORES    370
+3   paperino paolino      ASSOLUTI    380
